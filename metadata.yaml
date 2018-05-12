@@ -1,0 +1,36 @@
+_repo: The-Code-of-the-Mountains_38498
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gage, George W.
+    alias: Gage, G. W.
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+covers:
+- cover_type: archival
+  image_path: 38498-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1930
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/l#a36873
+    - http://www.english.eku.edu/services/kylit/buck.htm
+description: ''
+gutenberg_issued: '2012-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38498'
+  lccn: '15011004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mountain life -- Fiction'
+title: The Code of the Mountains
+url: http://www.gutenberg.org/ebooks/38498
